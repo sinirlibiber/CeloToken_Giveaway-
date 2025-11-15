@@ -215,7 +215,7 @@ MIT License - detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
 **Gumus (base.eth)**
 - GitHub: [@sinirlibiber](https://github.com/sinirlibiber)
-- Farcaster: base.eth
+- Farcaster: https://farcaster.xyz/gumusbey
 
 ## 🙏 Teşekkürler
 
