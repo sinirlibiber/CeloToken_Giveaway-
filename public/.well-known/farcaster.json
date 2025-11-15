@@ -1,0 +1,26 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "CeloTokenGiveaway",
+    "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_ceafe9bb-2047-4885-8cb5-e376543529d8-UQz9oWbZO3onWqttPL8jouVwQ5EavJ",
+    "homeUrl": "https://exist-mixture-966.app.ohara.ai",
+    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_ceafe9bb-2047-4885-8cb5-e376543529d8-UQz9oWbZO3onWqttPL8jouVwQ5EavJ",
+    "buttonTitle": "CeloTokenGiveaway",
+    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashBackgroundColor": "#ffffff",
+    "tags": [
+      "ohara",
+      "mini-app",
+      "base",
+      "farcaster"
+    ],
+    "primaryCategory": "entertainment",
+    "ogTitle": "CeloTokenGiveaway",
+    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_ceafe9bb-2047-4885-8cb5-e376543529d8-UQz9oWbZO3onWqttPL8jouVwQ5EavJ"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      ""
+    ]
+  }
+}
