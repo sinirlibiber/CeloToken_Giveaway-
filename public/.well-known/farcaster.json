@@ -11,8 +11,8 @@
     "tags": [
       "ohara",
       "mini-app",
-      "base",
-      "farcaster"
+      "baseBuilder": {
+      "ownerAddress": "0x22AD376B82710d20FC21A37A8fb04FE26e48dEeF"
     ],
     "primaryCategory": "entertainment",
     "ogTitle": "CeloTokenGiveaway",
